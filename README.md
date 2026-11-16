@@ -7,7 +7,7 @@ Aplicación web para un negocio de comidas: los clientes se registran, recorren 
 
 **Repositorio:** https://github.com/fraanv1999/TPIProgramacionIV
 
-**Video de demostración:** `<link público>` ← _completar_
+**Video de demostración:** https://youtu.be/Fng8hYtaouc
 
 ---
 
